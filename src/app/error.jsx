@@ -1,11 +1,11 @@
 "use client"
 
-const Lamps = () => {
+const Error = () => {
       return (
             <div>
-                  <h1>Lamps</h1>
+                Error  
             </div>
       );
 };
 
-export default Lamps ;
+export default Error;
